@@ -7,6 +7,7 @@ namespace SomeGames
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello Git World!");
+            Console.WriteLine("Hello Git World!");
         }
     }
 }
